@@ -1,8 +1,11 @@
 Quining has never been easier than with this generic [Quine]([https://en.wikipedia.org/wiki/Quine_(computing)](https://en.wikipedia.org/wiki/Quine_(computing))) class:
 
 **Step 1.** Insert any code at the indicated location.
+
 **Step 2.** Using your favourite IDE (tested with IntelliJ), copy the entire code and paste into String s (line 4).
+
 **Step 3.** Compile and run.
+
 
 
 ```Java
